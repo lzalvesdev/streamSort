@@ -50,10 +50,10 @@ export default async function Home() {
           </div>
         </nav>
         <h1 className="md:text-6xl text-2xl font-bold mt-8 md:mt-16">
-          Organize Seus Vídeos Gratuitamente e Potencialize Seu Aprendizado{' '}
+          Organize Suas Playlists Gratuitamente e Potencialize Seu Aprendizado{' '}
         </h1>
         <p className="text-gray-500 mt-4 text-sm md:text-xl max-w-3xl mx-auto">
-          Encontre e organize seus vídeos do YouTube de maneira eficiente e personalizada.
+          Encontre e organize suas playlist do YouTube de maneira eficiente e personalizada.
           Oferecemos um lugar para você organizar e aprender com facilidade.
         </p>
 
@@ -80,7 +80,7 @@ export default async function Home() {
             />
             <ul className="md:text-2xl text-lg text-muted-foreground space-y-4 md:space-y-6 flex-shrink-0">
               <li className="flex items-center justify-between gap-4">
-                Organize automaticamente seus vídeos de vídeos{' '}
+                Organize automaticamente suas playlists{' '}
                 <Check size={24} className="text-green-600" />
               </li>
               <li className="flex items-center justify-between gap-4">
